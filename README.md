@@ -1,7 +1,7 @@
 DisenCDR
 ===
 
-The source code is for the paper: “DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation” accepted in SIGIR 2022 by Jiangxia Cao, XiXun Lin, Xin Cong, Jing Ya, Tingwen Liu and Bin Wang.
+The source code is for the paper: “DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation” accepted in SIGIR 2022 by Jiangxia Cao, Xixun Lin, Xin Cong, Jing Ya, Tingwen Liu and Bin Wang.
 
 ```
 @inproceedings{cao2022disencdr,
